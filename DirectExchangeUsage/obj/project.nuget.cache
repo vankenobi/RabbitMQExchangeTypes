@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SLn+uBkMe5PRsXhNgCvPG1PQZrg66aSJm9lL6IckKzoCDEn6C/FVZukDM9HfOa/gdM3CafkovO9e6yIGsPr8MA==",
+  "success": true,
+  "projectFilePath": "/Users/musakucuk/Projects/RabbitMQBasicProducerConsumer/DirectExchangeUsage/DirectExchangeUsage.csproj",
+  "expectedPackageFiles": [
+    "/Users/musakucuk/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/musakucuk/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/musakucuk/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/musakucuk/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
